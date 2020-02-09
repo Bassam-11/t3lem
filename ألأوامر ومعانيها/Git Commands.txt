@@ -1,2 +1,11 @@
 git clone (Your Link) لأجل نسخ الريبو
+
+
+git add . أسمع
+
+تعليق للتغيرات:
+git commit -m "تعليق" 
+
 git push لدفع التغيرات
+
+git pull لاخذ التغيرات
